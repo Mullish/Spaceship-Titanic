@@ -24,7 +24,6 @@
 
   <h2 id="to-do">To do</h2>
   <ul>
-    <li><input type="checkbox"> Добавить бустинги</li>
     <li><input type="checkbox"> Добавить тестирование</li>
   </ul>
 
